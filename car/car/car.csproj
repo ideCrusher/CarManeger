@@ -43,14 +43,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Car.cs" />
+    <Compile Include="Components\Car.cs" />
     <Compile Include="Components\Carcase.cs" />
     <Compile Include="Components\Engine.cs" />
     <Compile Include="Components\Fuel.cs" />
+    <Compile Include="Player.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Status.cs" />
+    <Compile Include="Components\Status.cs" />
     <Compile Include="Components\Wheel.cs" />
+    <Compile Include="Race.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

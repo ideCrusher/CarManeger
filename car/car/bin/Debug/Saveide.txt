@@ -1,0 +1,2 @@
+ide   Common car  500  0  0  1
+Common engine    Normal wheel   Common carcase   Bronz fuel
